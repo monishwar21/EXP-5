@@ -16,9 +16,13 @@ S.No	Name of the Apparatus	Range	Quantity
 7	Connecting Wires	As Required	
 
 CIRCUIT DIAGRAM:
-1)<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/608ee2e3-4671-4e75-8bc1-d13e94717467" />
+1)CIRCUIT DIAGRAM
 
-2)<img width="727" height="1280" alt="image" src="https://github.com/user-attachments/assets/a291ba10-5ad2-4617-9739-7a78bf0453fd" />
+<img width="739" height="1280" alt="image" src="https://github.com/user-attachments/assets/608ee2e3-4671-4e75-8bc1-d13e94717467" />
+
+2)CIRCUIT DIAGRAM
+
+<img width="727" height="1280" alt="image" src="https://github.com/user-attachments/assets/a291ba10-5ad2-4617-9739-7a78bf0453fd" />
 
 
 THEORY:
@@ -35,10 +39,14 @@ PROCEDURE:
 
 
 REGULATION CHARACTERISTICS:
-1)<img width="783" height="445" alt="Screenshot 2025-12-26 223901" src="https://github.com/user-attachments/assets/3711f1fe-f541-4bd6-bf4f-1f9f5455145d" />
+1)PROTEUS 1 SETUP DIAGRAM
+
+<img width="783" height="445" alt="Screenshot 2025-12-26 223901" src="https://github.com/user-attachments/assets/3711f1fe-f541-4bd6-bf4f-1f9f5455145d" />
 
 
-2)<img width="776" height="394" alt="Screenshot 2025-12-26 223917" src="https://github.com/user-attachments/assets/5390f115-ea19-4e56-a15b-68d433be5be0" />
+2)PROTEUS 2 SETUP DIAGRAM
+
+<img width="776" height="394" alt="Screenshot 2025-12-26 223917" src="https://github.com/user-attachments/assets/5390f115-ea19-4e56-a15b-68d433be5be0" />
 
 V-I & REGULATION CHARACTERISTICS:
 
